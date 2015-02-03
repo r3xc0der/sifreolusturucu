@@ -1,4 +1,4 @@
-taksitlendirme
+şifre oluşturucu
 ==============
 
-Dışardan girilen bir fiyatın, taksit adedine ve ilk taksit tarihine göre vadeleri hesaplayanan script.
+Dışarıdan girilen uzunluğa göre kolay,orta ve zor şekillerde şifre üreten script.
